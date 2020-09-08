@@ -1,0 +1,8 @@
+.test{
+    height:300px;
+    width: 300px;
+    border-color: black solid;
+    border-width: 3px;
+    offset-anchor: 10px;
+    overflow: scroll;
+}
